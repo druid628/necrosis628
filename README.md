@@ -39,8 +39,9 @@ Wiki link [http://www.wowwiki.com/Necrosis_(addon)]
 
 
 ## Copyright
-(c) 2005 - 2007 Lomig, Liadora et Nyx (Kael'Thas et Elune - EU/French)
-(c) 2008 - 2010 Lomig & ArPharazon (Nagrand - US/Oceanic)
-(c) 2020 - DruiD628 (Talitha on Khadgar-US)
+ * (c) 2005 - 2007 Lomig, Liadora et Nyx (Kael'Thas et Elune - EU/French)
+ * (c) 2008 - 2010 Lomig & ArPharazon (Nagrand - US/Oceanic)
+ * (c) 2020 - Previous Authors & DruiD628 (Talitha on Khadgar-US)  
+ 
 Licensed under the GPL v2
 
